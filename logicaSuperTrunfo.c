@@ -77,9 +77,9 @@ int main() {
     printf("Carta 2 - %s: %.2f km²\n\n", cidade2, area2); // Apresentação da Carta 2 e seu atributo (área)
 
     if (area1 > area2){ // Decisão
-        printf("Resultado: Carta 1 (%s) venceu!\n", cidade1); // Caminho caso a Carta 1 vença
+        printf("Resultado: Carta 1 (%s) venceu!\n", cidade1); // Caminho caso a Carta 1 vença.
     } else {
-        printf("Resultado: Carta 2 (%s) venceu!\n", cidade2); // Caminho caso a Carta 2 vença
+        printf("Resultado: Carta 2 (%s) venceu!\n", cidade2); // Caminho caso a Carta 2 vença.
     }
 
 
